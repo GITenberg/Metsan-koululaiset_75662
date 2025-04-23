@@ -1,0 +1,60 @@
+_repo: Metsan-koululaiset_75662
+_version: 0.0.1
+alternative_title: Wood folk at school. Finnish
+contributor:
+  translator:
+    agent_name: Eskola, Mandi
+    gutenberg_agent_id: '58087'
+    url: http://www.gutenberg.org/2009/agents/58087
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: https://en.wikipedia.org/wiki/William_J._Long
+description: 'Reading ease score: 36.3 (College-level). Difficult to read.'
+gutenberg_bookshelf:
+- 'Browsing: Children & Young Adult Reading'
+- 'Browsing: Nature/Gardening/Animals'
+gutenberg_issued: '2025-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75662'
+language: fi
+pgterms:marc905: 20230721093701long
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal behavior'
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+- GITenberg
+summary: '"Metsän koululaiset" by William J. Long is a collection of animal stories
+  written in the early 20th century. This work incorporates observations and narratives
+  about various creatures living in the forest, focusing particularly on their behaviors
+  and the lessons they learn through experience and parental guidance. The book aims
+  to illustrate the education and survival instincts of wildlife, emphasizing the
+  connection between instinct, learning, and nature.  At the start of this collection,
+  the reader is introduced to the author''s pioneering observations of wildlife in
+  their natural habitat. The opening chapter describes the author''s encounter with
+  newborn mountain goat kids hidden beneath a fallen tree trunk, showcasing their
+  novelty and innocence. As he interacts with them, themes of instinctual behavior
+  and the guidance provided by their mother are highlighted, along with the gentle
+  beauty of nature and the implicit lessons learned by these young animals. Through
+  vivid descriptions, Long paints a portrait of life in the forest, where each creature
+  has its own story shaped by parental instruction and the inherent understanding
+  of their environment. (This is an automatically generated summary.)'
+tableOfContents: Mitä metsävuohen kilin pitää tietää -- Öinen huuto -- Ismaques kalasääski
+  -- Pienten kalastajien koulu -- Kun karhu tulee vastaan -- Quoskh Tarkkasilmä --
+  Unk Wunk piikkisika -- Laiskurin kujeet -- Peltokanain iltahuuto -- Umquenawis mahtava
+  -- Torven soidessa -- Intianinkielisten nimien luettelo.
+title: Metsän koululaiset
+url: http://www.gutenberg.org/ebooks/75662
