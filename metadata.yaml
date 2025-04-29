@@ -6,6 +6,9 @@ contributor:
     agent_name: Eskola, Mandi
     gutenberg_agent_id: '58087'
     url: http://www.gutenberg.org/2009/agents/58087
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Long, William J. (William Joseph)
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/744
     wikipedia: https://en.wikipedia.org/wiki/William_J._Long
 description: 'Reading ease score: 36.3 (College-level). Difficult to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75662#Metsan-koululaiset
 gutenberg_bookshelf:
 - 'Browsing: Children & Young Adult Reading'
 - 'Browsing: Nature/Gardening/Animals'
